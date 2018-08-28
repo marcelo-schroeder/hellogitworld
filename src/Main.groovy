@@ -8,6 +8,8 @@ int programmingPoints = 10
 
 // comment from 2
 
+// comment from 1 again
+
 println "Hello ${name}"
 println "${name} has at least ${programmingPoints} programming points."
 println "${programmingPoints} squared is ${square(programmingPoints)}"
